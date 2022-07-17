@@ -1,1 +1,2 @@
-# WrittenInc-scratch.github.io
+# OS
+The website for WrittenOS™. Built by WrittenOS Collabration
