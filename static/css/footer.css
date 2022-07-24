@@ -12,3 +12,13 @@ hr {
     border: 2.5px solid black;
     padding: 0px;
 }
+
+table.footer tr td a {
+    color: #D3D3D3;
+    text-decoration: none;
+}
+
+table.footer tr td a:hover {
+    color: #7e7e7e;
+    text-decoration: none;
+}
